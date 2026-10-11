@@ -1,4 +1,4 @@
-# Hola, soy Elian 👋
+# Hola, soy Elian
 
 Desarrollador Full-Stack de Tandil, Argentina. Estudiante avanzado de Ingeniería en Sistemas en la UNICEN.
 
